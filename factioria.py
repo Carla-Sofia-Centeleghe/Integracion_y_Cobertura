@@ -1,0 +1,3 @@
+def fcatorial(nemuero: int):
+
+
