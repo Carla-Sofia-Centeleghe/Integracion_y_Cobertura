@@ -1,5 +1,5 @@
 Practica de test Cover (codeclimate) y de integracion continua (circleCI)
-# pruebaC1
+# Integracion y cobertura del codigo
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Carla-Sofia-Centeleghe/pruebaC1/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Carla-Sofia-Centeleghe/pruebaC1/tree/main)
 
